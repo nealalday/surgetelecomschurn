@@ -1,11 +1,10 @@
 # Surge Telecoms Churn Report 2025
+![Surge_Telecoms_Churn_SC1](https://github.com/user-attachments/assets/e113774e-4b12-4a70-b3b4-b5c8c0bf59d7)
 
 ## Project Background
 As a data analyst for Surge Telecoms (ST), I was tasked with producing a high-level dashboard to visualize the company's churn report for Q4 2024. **This dashboard uses approximately 7,000 synthetic records of telecom customers, including monthly charges, contract types, and tenure in months.** The main objective was to improve company "stickiness" and optimize future business operations by analyzing the statistics of churned clients—such as how many left and their reasons for doing so. Key areas of focus included churn reasons, churn categories, and accepted offers.
 
-Below is a screenshot of the Tableau dashboard and more examples are linked in the report. The link to the full dashboard can be found [here.](https://public.tableau.com/app/profile/neal.alday/viz/PlanetTelecomsChurn/ChurnReportQ2)
-
-![Surge_Telecoms_Churn_SC1](https://github.com/user-attachments/assets/e113774e-4b12-4a70-b3b4-b5c8c0bf59d7)
+Above is a screenshot of the Tableau dashboard and more examples are linked in the report. The link to the full dashboard can be found [here.](https://public.tableau.com/app/profile/neal.alday/viz/PlanetTelecomsChurn/ChurnReportQ2)
 
 ## Executive Summary
 This analysis provides an at-a-glance view of Surge Telecom's customer retention performance over the previous quarter. Out of 7,043 unique customers, 1,869 left the company, with the majority citing better competitor services and poor customer support as their primary reasons. The overall churn rate stands at 27%, while 50% of high-risk customers are at risk of churning. Clients with month-to-month contracts are the most vulnerable to churn, highlighting the need for incentives to transition them into longer-term contracts. While retention initiatives can be adjusted, historical data suggests they are not a major factor in customers choosing to stay.
