@@ -9,28 +9,28 @@ This analysis provides an at-a-glance view of Surge Telecom's performance in ter
 ## Insights Deep-Dive
 **Customer Status**
 - **1,869 customers have churned out of 7,043**, producing a churn rate of 27%.
-- The company retained 4,760 (67%) clients, while 454 (6%) recently joined.
+- The company retained **4,760 (67%)** clients, while **454 (6%)** recently joined.
 - Churn rate is down 2.7% from last quarter, but **a more aggressive strategy should be implemented** to further reduce this number.
 
 **Top Reasons for Churn**
-- Better competitor devices and services were cited as the top reason for churned customers.
-- Poor technical support and dissatisfaction with network services take up the second and third spot, respectively.
-- It is worth noting that the attitude of the customer service representative was a strong driver for customers to switch networks.
-- Pricing structure is mentioned as the least important reason for churn, indicating that customers are generally satisfied in this area.
+- **Better competitor devices and services** were cited as the top reason for churned customers.
+- **Poor technical support and dissatisfaction with network services** take up the second and third spot, respectively.
+- It is worth noting that the attitude of the customer service representative was a **strong driver for customers to switch networks**.
+- **Pricing structure is mentioned as the least important reason** for churn, indicating that customers are generally satisfied in this area.
 
 **Customer Churn Risk**
-- Customers are categorised as high, medium or low risk clients: 50% of staying high risk customers have an elevated probability of churning and extreme steps should be taken to retain them.
+- Customers are categorised as high, medium or low risk clients: 50% of staying high risk customers have an elevated probability of churning and **extreme steps should be taken to retain them**.
 - Meanwhile, 82% of staying customers are classified as medium risk and should be monitored intensively.
 - Risk assessment calculation is based off a monthly charge x tenure in months split depending on customer category.
 
 **Tenure of Churned Customers**
-- Clients holding a month-to-month contract have been proven to have the highest probability of churn.
+- Clients holding a month-to-month contract have been proven to have the **highest probability of churn**.
 - Majority of churned clients stayed with the company for less than six months, signifying that they were not fully satisfied with their experience.
-- Customers who have been with ST for more than two years are also observed to churn, denoting a gap in the company's incentives for long-time consumers to stay.
+- Customers who have been with ST for **more than two years** are also observed to churn, denoting a gap in the company's incentives for long-time consumers to stay.
 
 **Retention Initiatives**
 - Among churned customers, 23% accepted a freebies offer, implying that this offer is unsatisfactory and should be improved.
-- The top offer for staying customers is the phone bundle.
+- **The top offer for staying customers is the phone bundle**.
 - With that said, offers aren't a major sticky point and funding can potentially be diverted.
 
 ## Recommendations
