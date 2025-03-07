@@ -56,6 +56,10 @@ This analysis provides an at-a-glance view of Surge Telecom's customer retention
 - Liaison with the customer service department to improve technical support.
 - Maintain the current pricing structure, as it is not a significant driver of churn.
 
+## Data Dictionary
+<img width="1001" alt="Dashboard1_Dictionary" src="https://github.com/user-attachments/assets/a32f685b-bd57-401a-989b-b3d140dbbf3a" />
+
+[Data Source](https://mavenanalytics.io/challenges/maven-churn-challenge/8b3b32ff-fb5b-43ff-9fbf-c11f30ee14fe)
 
 
 
