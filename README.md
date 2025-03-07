@@ -2,7 +2,7 @@
 ![Surge_Telecoms_Churn_SC1](https://github.com/user-attachments/assets/e113774e-4b12-4a70-b3b4-b5c8c0bf59d7)
 
 ## Project Background
-As a data analyst for Surge Telecoms (ST), I was tasked with producing a high-level dashboard to visualize the company's churn report for Q4 2024. **This dashboard uses approximately 7,000 synthetic records of telecom customers, including monthly charges, contract types, and tenure in months.** The main objective was to improve company "stickiness" and optimize future business operations by analyzing the statistics of churned clients—such as how many left and their reasons for doing so. Key areas of focus included churn reasons, churn categories, and accepted offers.
+As a data analyst for Surge Telecoms (ST), I was tasked with producing a high-level dashboard to visualize the company's churn report for Q4 2024. **This dashboard uses approximately 7,000 records of telecom customers, including monthly charges, contract types, and tenure in months.** The main objective was to improve company "stickiness" and optimize future business operations by analyzing the statistics of churned clients—such as how many left and their reasons for doing so. Key areas of focus included churn reasons, churn categories, and accepted offers.
 
 Above is a screenshot of the Tableau dashboard and more examples are linked in the report. The link to the full dashboard can be found [here.](https://public.tableau.com/app/profile/neal.alday/viz/PlanetTelecomsChurn/ChurnReportQ2)
 
